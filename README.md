@@ -1,13 +1,11 @@
-# FiberBricks
+# FiberBricks 📜
 
 Creación de ladrillos artesanales a base de celulosa de papel que evita la produccion de Co2 en su creación y reduccion de 99% de desechos es su elaboración.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Puedes verificar la  [norma](https://norma.NOM.com) para mayor seguridad de tu empresas y tus clientes
 
 ## Resistencia 
-
  Pruebas avaladas por las normas de construcción NOM-2000-2001 
-
 
 ## Costos 
 
@@ -20,6 +18,7 @@ Tierra  |  $600  |  72 hrs
 -[ x ] Empresas Privadas
 -[ x ] Gubarnamentales
 -[  ] infonavit
+
 
 
 **Bold** and _Italic_ and `Code` text
