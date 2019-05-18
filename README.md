@@ -15,8 +15,11 @@ cemento |  $3,000|   72hrs
 Tierra  |  $600  |  72 hrs
 
 ## Elmercado que abarca 
+
 -[ x ] Empresas Privadas
+
 -[ x ] Gubarnamentales
+
 -[  ] infonavit
 
 
