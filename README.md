@@ -14,7 +14,7 @@ Materia | Costos | Tiempo
 cemento |  $3,000|   72hrs
 Tierra  |  $600  |  72 hrs
 
-## Elmercado que abarca 
+## El mercado que abarca 
 
 -[ x ] Empresas Privadas
 
