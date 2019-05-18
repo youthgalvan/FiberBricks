@@ -8,17 +8,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  Pruebas avaladas por las normas de construcción NOM-2000-2001 
 
-```markdown
-Costos 
 
-# Header 1
-## Header 2
-### Header 3
+## Costos 
 
 Materia | Costos | Tiempo
 --------|--------|---------
-cemento   $3,000    72hrs
+cemento |  $3,000|   72hrs
 Tierra  |  $600  |  72 hrs
+
+## Elmercado que abarca 
+-[ x ] Empresas Privadas
+-[ x ] Gubarnamentales
+-[  ] infonavit
 
 
 **Bold** and _Italic_ and `Code` text
