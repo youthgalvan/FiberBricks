@@ -1,6 +1,6 @@
 # FiberBricks 📜
 ![Bricks Logos](/images/)
-![Bricks Logos](/images/)
+!
 
 Creación de ladrillos artesanales a base de celulosa de papel que evita la produccion de Co2 en su creación.
 
@@ -10,26 +10,70 @@ Puedes verificar la  [norma](https://norma.NOM.com) para mayor seguridad de tu e
 
 ## Resistencia 
  Pruebas avaladas por las normas de construcción NOM-2000-2001 
+ ## Provedores 
+
+ 
+ ### Colaboremos Juntos
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
 
 ## Clientes 
+
 
 Materia | Costos | Tiempo
 --------|--------|---------
 cemento |  $3,000|   72hrs
 Tierra  |  $600  |  72 hrs
 
-## Provedores 
 
+### Contactate con  Nosotros
 
-### Contactate con nosotros 
 <label>Nombre: </label>
 <input placeholder="Ingresa tu nombre"/>
 
--[ x ] Empresas Privadas
+<label>Empresa: </label>
+<input placeholder="Ingresa el nombre de tu empresa"/>
 
--[ x ] Gubarnamentales
+<label>Correo: </label>
+<input placeholder="Ingresa correo de contacto"/>
 
--[  ] infonavit
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
+
+<label>Telefono: </label>
+<input placeholder="Ingresa tu telefono de contacto"/>
+
+<label>RFC: </label>
+<input placeholder="Ingresa tu RFC"/>
+
+<label>Domicilio: </label>
+<input placeholder="Ingresa tu domicilio fiscal"/>
+
+
+
+
+
+
+
+
 
 
 
