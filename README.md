@@ -1,5 +1,5 @@
 # FiberBricks 
-![Bricks Logos](https://previews.dropbox.com/p/thumb/AAac1h6vdETXxfKmz5DDSXFSAfoIoDomRzSctarKoiTXteUNwsRaYpYpAuEO3dvhw9sbev4a4qCIMWiE4Mrmi54H9v4LWTR5koIalXzhRjHbx6Yc0ZsZvJYVf3sWKxzvzoiPAz_PF_WQghNQlpydg5NjppGrbtO2XznfT7PsyPL9bKktuMY4zJCUB9gq3f7RYzHe1FWTMAqV-i1O6nb81x3Ev0uon14y3AnZ_bUg8v_9TSd69jRzorzfJ1MUr-WzhpWA1nZ1rouEbZcNavc8aaGm_rHmXiDwma9PmkA0-xPOOLKUAIBYupzGJGNt_Yjo4hNfDw2sEi95G0q_d7eomVVZ/p.png?fv_content=true&size_mode=5)
+![Bricks Logos](https://previews.dropbox.com/p/thumb/AAaJysa0G6OXXKrSakCc7sx7IaPrBcHqwK_Rt3W9-HnlMGYYrYbzi5n2tBM-_eauOGRrxFPZZmKcIxKr-shlRNR6dZCWcwYOmLoBZXUapGA8_vgvYl7A-wnqpAe9wPDDyPbpsihgoLiMryJZRe5SrSfSRxcsgR5uy_YvgK4egWPNydqR5Tb9mvjrECmECwcszLndEBUewIuS4_pSx-AOvC6uNBE5zJWoZXEeUYTwgbZ2MqfAvLEVyKrBkrol4gFkn8NrSaFgLfNW3IjTixqydo82z2uCHt-YQgU_ASm3hk66QwVgEAG9zAJzaGy8F1lt3haolSIhN1LUqFA8mhk1Qp6D/p.png?fv_content=true&size_mode=5)
 
 
 Somos una empresa dedicada a  fabricar ladrillos ecologicos.
@@ -28,7 +28,7 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
  
 ¿Deseas comprar nuestros ladrillos o solicitarnos información? por favor llena el siguiente formulario o mandanos un e-mail al correo **info@fiberbricks.com**
  
-## Colaboremos Juntos
+## Contactactate con nosotros
  
  
 <label>Nombre de Contacto: </label>
@@ -58,7 +58,7 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
 ¿Deseas maquilar para nosotros? por favor llena el siguiente formulario o mandanos un e-mail al correo **proveedores@fiberbricks.com**
 
 
-## Contactate con Nosotros
+## Colaboremos juntos
 
 <label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
