@@ -7,18 +7,20 @@ De esta forma cuidamos el medio ambiente y formar parte de tu hogar. Nuestros la
 
 
 ## Beneficios
-*Reduccion de gases nocivos y de efecto invernadero.
-*Mejora en la calidad de vida.
-*Inclusión de ladrilleros en una cadena de valor donde nosotros tomamos el funcionamiento de intermediarios entre macro empresas y ladrilleros pequeños.
-*Reducción y manejo adecuado del SCRAP.
-*Previene la acidificación de los rios.
-*Apoya 5 de los 17 de los GLOBAL GOALS para el cuidado y preservación del medio ambiente. 
+* Reduccion de gases nocivos y de efecto invernadero.
+* Mejora en la calidad de vida.
+* Inclusión de ladrilleros en una cadena de valor donde nosotros tomamos el funcionamiento de intermediarios entre macro empresas y ladrilleros pequeños.
+* Reducción y manejo adecuado del SCRAP.
+* Previene la acidificación de los rios.
+* Apoya 5 de los 17 de los GLOBAL GOALS para el cuidado y preservación del medio ambiente. 
 
 
 ## Misión
+
 Nacimos para ayudar a reducir la emision de gases invernadero mejorando la vivienda y la vida de las personas. 
 
 ## Visión
+
 Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 2025.
 
 
@@ -29,7 +31,7 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
  
 ¿Deseas comprar nuestros ladrillos o solicitarnos información? por favor llena el siguiente formulario o mandanos un e-mail al correo **info@fiberbricks.com**
  
- ### Colaboremos Juntos
+ ## Colaboremos Juntos
  
 <label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
@@ -58,7 +60,7 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
 ¿Deseas maquilar para nosotros? por favor llena el siguiente formulario o mandanos un e-mail al correo **proveedores@fiberbricks.com**
 
 
-### Contactate con  Nosotros
+## Contactate con  Nosotros
 
 <label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
@@ -85,7 +87,7 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
 ## Educación 
 
 [El daño de la contaminación en tu familia](https://contaminacio.com)   ![Familia]()
-
+[]
 
 ```
 
