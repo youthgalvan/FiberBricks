@@ -25,10 +25,12 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
 
 
  
- ## Clientes
+ # Clientes
+ 
 ¿Deseas comprar nuestros ladrillos o solicitarnos información? por favor llena el siguiente formulario o mandanos un e-mail al correo **info@fiberbricks.com**
  
  ### Colaboremos Juntos
+ 
 <label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
 
@@ -51,11 +53,13 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
 <input placeholder="Queremos escucharte"/>
 
 
-## Proveedores
+# Proveedores
+
 ¿Deseas maquilar para nosotros? por favor llena el siguiente formulario o mandanos un e-mail al correo **proveedores@fiberbricks.com**
 
 
 ### Contactate con  Nosotros
+
 <label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
 
@@ -78,7 +82,7 @@ Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 
 <input placeholder="Queremos escucharte"/>
 
 
-**Educación** 
+## Educación 
 
 [El daño de la contaminación en tu familia](https://contaminacio.com)   ![Familia]()
 
