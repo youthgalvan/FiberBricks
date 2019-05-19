@@ -1,52 +1,34 @@
 # FiberBricks 📜
-![Bricks Logos](<label>Domicilio Fiscal: </label>
-<input placeholder="Ingresa tu domicilio fiscal"/>)
-!
-
-Creación de ladrillos artesanales a base de celulosa de papel que evita la produccion de Co2 en su creación.
+![Bricks Logos](https://previews.dropbox.com/p/thumb/AAa7bpnHgEP6cAFvlMrD7GxDNM8tgDXgQHNwGF5Ls3XyWfQNjcEtMPMZI18rLCkPk7-dhuI-EpzT756dIrGziO2Ush3p4_g962TVT_XAtMCQeI0IeHcgRAWOKBY6oRQuOYwboY4VkkQaHLZCe2FQ5JPA0mPO-AE9Qx2s2aiq4bMiqUafGJCtRdNq3dmwHKlxfSFLhe6SqZxA_0kNtzaaycAyv6Tk4CEXG824-y_i9Y-pr5_RWaKNvogmw2MsougHpqJkuAsaZVokG1Z04CasYxVzRtKwKFw5t_qsXTcp-z8k7VoVdnCmzXj2LENXWXOVcxisGFtkyJKgaQ54O4CoBUPo/p.png?fv_content=true&size_mode=5)
 
 
+Somos una empresa dedicada a  fabricar ladrillos ecologicos.
+De esta forma cuidamos el medio ambiente y formar parte de tu hogar. Nuestros ladrillos sostituyen a los ladrillos tradicionales que necesitan un proceso de coccion el cual produce cantidades alarmantes de gases dañinos para la salud asi como de efecto invernadero. 
 
-Puedes verificar la  [norma](https://norma.NOM.com) para mayor seguridad de tu empresas y tus clientes
 
-## Resistencia 
- Pruebas avaladas por las normas de construcción NOM-2000-2001 
- ## Provedores 
+##Beneficios
+*Reduccion de gases nocivos y de efecto invernadero.
+*Mejora en la calidad de vida.
+*Inclusión de ladrilleros en una cadena de valor donde nosotros tomamos el funcionamiento de intermediarios entre macro empresas y ladrilleros pequeños.
+*Reducción y manejo adecuado del SCRAP.
+*Previene la acidificación de los rios.
+*Apoya 5 de los 17 de los GLOBAL GOALS para el cuidado y preservación del medio ambiente. 
+
+
+## Misión
+Nacimos para ayudar a reducir la emision de gases invernadero mejorando la vivienda y la vida de las personas. 
+
+## Visión
+Llegar a ser la principal distribuidora de ladrillos ecologicos en México para 2025.
+
+
+
 
  
+ ## Clientes
+¿Deseas comprar nuestros ladrillos o solicitarnos información? por favor llena el siguiente formulario o mandanos un e-mail al correo **info@fiberbricks.com**
+ 
  ### Colaboremos Juntos
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
-## Clientes 
-
-
-Materia | Costos | Tiempo
---------|--------|---------
-cemento |  $3,000|   72hrs
-Tierra  |  $600  |  72 hrs
-
-
-### Contactate con  Nosotros
-
 <label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
 
@@ -69,13 +51,31 @@ Tierra  |  $600  |  72 hrs
 <input placeholder="Queremos escucharte"/>
 
 
+## Proveedores
+¿Deseas maquilar para nosotros? por favor llena el siguiente formulario o mandanos un e-mail al correo **proveedores@fiberbricks.com**
 
 
+### Contactate con  Nosotros
+<label>Nombre de Contacto: </label>
+<input placeholder="Ingresa tu nombre"/>
 
+<label>Empresa: </label>
+<input placeholder="Ingresa el nombre de tu empresa"/>
 
+<label>Correo: </label>
+<input placeholder="Ingresa correo de contacto"/>
 
+<label>Telefono: </label>
+<input placeholder="Ingresa tu telefono de contacto"/>
 
+<label>RFC: </label>
+<input placeholder="Ingresa tu RFC"/>
 
+<label>Domicilio Fiscal: </label>
+<input placeholder="Ingresa tu domicilio fiscal"/>
+
+<label>Observaciones: </label>
+<input placeholder="Queremos escucharte"/>
 
 
 **Educacion** and _Italic_ and `Code` text
@@ -83,11 +83,10 @@ Tierra  |  $600  |  72 hrs
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[Link](url) and ![Image](src)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youthgalvan/FiberBricks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
