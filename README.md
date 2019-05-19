@@ -1,9 +1,6 @@
 # FiberBricks 📜
-![Bricks Logos](/images/
-
-)
-![Bricks Logos](/images/
-)
+![Bricks Logos](/images/)
+![Bricks Logos](/images/)
 
 Creación de ladrillos artesanales a base de celulosa de papel que evita la produccion de Co2 en su creación.
 
@@ -14,14 +11,19 @@ Puedes verificar la  [norma](https://norma.NOM.com) para mayor seguridad de tu e
 ## Resistencia 
  Pruebas avaladas por las normas de construcción NOM-2000-2001 
 
-## Costos 
+## Clientes 
 
 Materia | Costos | Tiempo
 --------|--------|---------
 cemento |  $3,000|   72hrs
 Tierra  |  $600  |  72 hrs
 
-## El mercado que abarca 
+## Provedores 
+
+
+### Contactate con nosotros 
+<label>Nombre: </label>
+<input placeholder="Ingresa tu nombre"/>
 
 -[ x ] Empresas Privadas
 
