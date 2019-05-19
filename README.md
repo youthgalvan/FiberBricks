@@ -7,9 +7,10 @@ De esta forma cuidamos el medio ambiente y formar parte de tu hogar. Nuestros la
 
 
 ## Beneficios
+
 * Reduccion de gases nocivos y de efecto invernadero.
 * Mejora en la calidad de vida.
-* Inclusión de ladrilleros en una cadena de valor donde nosotros tomamos el funcionamiento de intermediarios entre macro empresas y ladrilleros pequeños.
+* Inclusión de ladrilleros en una cadena de valor donde nosotros tomamos el funcionamiento de intermediarios entre macro     empresas y ladrilleros pequeños.
 * Reducción y manejo adecuado del SCRAP.
 * Previene la acidificación de los rios.
 * Apoya 5 de los 17 de los GLOBAL GOALS para el cuidado y preservación del medio ambiente. 
