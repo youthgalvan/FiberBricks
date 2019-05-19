@@ -1,5 +1,6 @@
 # FiberBricks 📜
-![Bricks Logos](/images/)
+![Bricks Logos](<label>Domicilio Fiscal: </label>
+<input placeholder="Ingresa tu domicilio fiscal"/>)
 !
 
 Creación de ladrillos artesanales a base de celulosa de papel que evita la produccion de Co2 en su creación.
@@ -46,7 +47,7 @@ Tierra  |  $600  |  72 hrs
 
 ### Contactate con  Nosotros
 
-<label>Nombre: </label>
+<label>Nombre de Contacto: </label>
 <input placeholder="Ingresa tu nombre"/>
 
 <label>Empresa: </label>
@@ -55,18 +56,17 @@ Tierra  |  $600  |  72 hrs
 <label>Correo: </label>
 <input placeholder="Ingresa correo de contacto"/>
 
-<label>Nombre: </label>
-<input placeholder="Ingresa tu nombre"/>
-
 <label>Telefono: </label>
 <input placeholder="Ingresa tu telefono de contacto"/>
 
 <label>RFC: </label>
 <input placeholder="Ingresa tu RFC"/>
 
-<label>Domicilio: </label>
+<label>Domicilio Fiscal: </label>
 <input placeholder="Ingresa tu domicilio fiscal"/>
 
+<label>Observaciones: </label>
+<input placeholder="Queremos escucharte"/>
 
 
 
@@ -77,7 +77,8 @@ Tierra  |  $600  |  72 hrs
 
 
 
-**Bold** and _Italic_ and `Code` text
+
+**Educacion** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
