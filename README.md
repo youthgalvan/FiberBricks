@@ -6,7 +6,7 @@ Somos una empresa dedicada a  fabricar ladrillos ecologicos.
 De esta forma cuidamos el medio ambiente y formar parte de tu hogar. Nuestros ladrillos sostituyen a los ladrillos tradicionales que necesitan un proceso de coccion el cual produce cantidades alarmantes de gases dañinos para la salud asi como de efecto invernadero. 
 
 
-##Beneficios
+## Beneficios
 *Reduccion de gases nocivos y de efecto invernadero.
 *Mejora en la calidad de vida.
 *Inclusión de ladrilleros en una cadena de valor donde nosotros tomamos el funcionamiento de intermediarios entre macro empresas y ladrilleros pequeños.
